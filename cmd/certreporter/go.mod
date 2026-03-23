@@ -1,10 +1,10 @@
 module organization.local/certreporter
 
-go 1.22
+go 1.25
 
 require (
 	github.com/DataDog/datadog-go v4.8.3+incompatible
-	github.com/slack-go/slack v0.17.3
+	github.com/slack-go/slack v0.20.0
 )
 
 require (
